@@ -1,16 +1,13 @@
 //
-//  ViewController.h
+//  TestViewController.h
 //  HoldemOrFoldem
 //
-//  Created by Seth Roelke on 10/6/15.
+//  Created by Seth on 11/10/15.
 //  Copyright (c) 2015 Seth Roelke. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
-
+@interface TestViewController : UIViewController
 
 @end
-
